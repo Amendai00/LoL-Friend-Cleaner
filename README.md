@@ -2,7 +2,7 @@
 
 ## Télécharger / Download
 
-[**Télécharger LoL Friend Cleaner gratuitement**](https://github.com/Amendai00/LoL-Friend-Cleaner/releases/tag/v1.1.0-beta)
+[**Download LoL Friend Cleaner**](https://github.com/Amendai00/LoL-Friend-Cleaner/releases/tag/v1.1.0-beta)
 
 **Free Windows utility to clean your League of Legends friends list.**
 
