@@ -1,5 +1,9 @@
 # LoL Friend Cleaner
 
+## Télécharger / Download
+
+[**Télécharger LoL Friend Cleaner gratuitement**](https://github.com/Amendai00/LoL-Friend-Cleaner/releases/tag/v1.1.0-beta)
+
 **Free Windows utility to clean your League of Legends friends list.**
 
 LoL Friend Cleaner connects to the local League of Legends client and helps you remove all friends from your list without deleting them manually one by one.
