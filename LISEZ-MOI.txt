@@ -1,0 +1,34 @@
+﻿LoL FRIEND CLEANER - VERSION PUBLIQUE GRATUITE 1.1 (BETA)
+==========================================================
+
+LANGUES
+- L'interface demarre en francais.
+- Le bouton English (en haut a droite) bascule l'ensemble des boutons,
+  des statuts, des confirmations et des erreurs en anglais.
+- Le bouton Francais permet de revenir au francais.
+- Le mot de confirmation depend de la langue : SUPPRIMER / DELETE.
+
+UTILISATION
+1. Decompresse le ZIP.
+2. Lance League of Legends et connecte-toi.
+3. Double-clique sur LANCER.bat.
+4. Clique sur Detecter mes amis, et verifie ta liste.
+5. Clique sur Tout supprimer si tu souhaites effacer tous tes amis.
+6. Accepte la confirmation initiale, puis sauvegarde obligatoirement le CSV.
+7. Confirme en tapant SUPPRIMER (ou DELETE en anglais).
+8. Recommence la detection pour verifier le resultat.
+
+IMPORTANT
+- La suppression est difficile a annuler ; le CSV n'est pas une restauration automatique.
+- Le client LoL utilise une API locale non officiellement prise en charge.
+- Aucun mot de passe n'est demande ni transmis vers un serveur externe.
+- Le jeton local est lu uniquement en memoire, et les appels ciblent 127.0.0.1.
+- Le certificat autosigne local est accepte uniquement pour ce client.
+- Cette version n'a pas encore ete testee sur toutes les configurations Windows.
+- L'outil est independant de Riot Games ; aucune affiliation ou approbation.
+
+DEPANNAGE
+Depuis PowerShell, dans le dossier extrait :
+  powershell.exe -NoProfile -STA -ExecutionPolicy Bypass -File ".\LoL-Friend-Cleaner.ps1"
+
+Ne desactive jamais ton antivirus pour executer cet outil.

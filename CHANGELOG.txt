@@ -1,0 +1,10 @@
+﻿v1.1.0-beta (2026-11-11)
+- Interface en francais par defaut.
+- Bouton English / Francais en haut a droite.
+- Traduction de tous les boutons, messages, erreurs, confirmations et statuts.
+- Confirmation finale SUPPRIMER en francais, DELETE en anglais.
+- Correction de la conversion JSON en tableau sur PowerShell 5.1.
+- Script en UTF-8 avec BOM pour les accents Windows PowerShell.
+
+v1.0.0-beta
+- Interface graphique; detection; sauvegarde CSV; suppression totale.
